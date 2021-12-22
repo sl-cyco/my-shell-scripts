@@ -1,4 +1,4 @@
-sudo su-
+sudo su -
 
 echo "Port 22
 Protocol 2
